@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 googletrans = "*"
 requests = "*"
+aiogram = "*"
 
 [dev-packages]
 
