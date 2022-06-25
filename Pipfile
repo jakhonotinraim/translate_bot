@@ -4,9 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-googletrans = "*"
+aiogram = "~=2.14"
 requests = "*"
-aiogram = "*"
+googletrans = "==3.1.0a0"
 
 [dev-packages]
 
